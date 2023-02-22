@@ -1,4 +1,10 @@
-#Jorge's Notes
+# Jorge's Notes
 
-####Summary
-This repository contains all of the notes take by [Jorge](https://github.com/porchsal) for the Lighthouse Web Development Bootcamp
+#### Summary
+This repository contains all of the notes take by [Jorge](https://github.com/porchsal) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp
+
+## Table of Contents
+
+* [Week 1](Week_1)
+   * [Day 1](Week_1/Day_1)
+
